@@ -1,3 +1,16 @@
+#wrapper{
+	width: 660px;
+	margin: 10px;
+	padding: 10px;
+	background: black;
+}
 img{
-	display: block;
+	display: inline block;
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+	border: 1px solid gray;
+}
+body{
+	color: white;
 }
